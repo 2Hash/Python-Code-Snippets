@@ -1,5 +1,5 @@
 
-#Author:  Eos
+#Author:  2Hash
 #Admin:   @StreamersHub.net
 #Github:  https://github.com/Eos11
 
