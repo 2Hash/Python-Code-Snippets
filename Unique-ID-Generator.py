@@ -15,7 +15,7 @@ def uniqueid():
        
 unique_sequence = uniqueid()
 
-print("Eos's UniqueID Generator @Streamershub.net")
+print("2Hash's UniqueID Generator")
 
 amount = int(input("Enter amount to generate: "))
 
